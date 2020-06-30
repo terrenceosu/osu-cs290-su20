@@ -1,3 +1,5 @@
+#Imported in for CS290 week 1 which required us to create a repository with at least 2 files in it.  Any files.
+
 # Author: Terrence Dominguez-Smith
 # Date: 4/1/2020
 # Description: This program imports the statistics module and collects peoples name and ages which will create tuples
