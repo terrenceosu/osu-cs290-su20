@@ -1,3 +1,6 @@
+#Imported in for week 1 of CS290 which required to create a repository with at least 2 files in it.
+
+
 # project-1
 
 For this project, you will import the **statistics** module.
